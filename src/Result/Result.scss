@@ -1,0 +1,25 @@
+.Result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  button {
+    background-color: darken(#ff006e, 3%);
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 10px 30px;
+  }
+}
+
+// button {
+//     font-family: 'Nunito', sans-serif;
+//     margin-top: 20px;
+//   }
